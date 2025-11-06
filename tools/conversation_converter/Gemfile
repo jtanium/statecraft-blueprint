@@ -1,0 +1,32 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+ruby '>= 3.0.0'
+
+# Core dependencies
+gem 'optparse', '~> 0.4.0'
+
+# For JSON parsing
+gem 'json', '~> 2.6'
+
+# For time/date parsing
+gem 'time', '~> 0.2'
+
+# For markdown generation
+gem 'kramdown', '~> 2.4'
+
+# For HTML parsing (if needed for some conversation exports)
+gem 'nokogiri', '~> 1.15'
+
+# Development dependencies
+group :development do
+  gem 'rspec', '~> 3.12'
+  gem 'rubocop', '~> 1.50'
+  gem 'rubocop-rspec', '~> 2.20'
+end
+
+# Testing dependencies
+group :test do
+  gem 'simplecov', '~> 0.22'
+end

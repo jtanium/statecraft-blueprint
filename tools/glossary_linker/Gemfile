@@ -1,0 +1,30 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+ruby '>= 3.0.0'
+
+# Core dependencies
+gem 'optparse', '~> 0.4.0'
+
+# For markdown parsing
+gem 'kramdown', '~> 2.4'
+gem 'kramdown-parser-gfm', '~> 1.1'
+
+# For YAML frontmatter parsing
+gem 'yaml', '~> 0.2'
+
+# For path manipulation
+gem 'pathname', '~> 0.2'
+
+# Development dependencies
+group :development do
+  gem 'rspec', '~> 3.12'
+  gem 'rubocop', '~> 1.50'
+  gem 'rubocop-rspec', '~> 2.20'
+end
+
+# Testing dependencies
+group :test do
+  gem 'simplecov', '~> 0.22'
+end
