@@ -41,6 +41,12 @@ The concept crystallizes around "Governance Architecture":
 - `2025-11-06-governance-architecture-outline-v1.md` - First comprehensive outline
 - `2025-11-06-p2-2-draft-v3.md` - Part 2.2 draft version 3
 
+### Phase 5: The Governance Design Agency (November 7, 2025)
+
+The concept evolves into a concrete proposal - the Governance Design Agency:
+
+- `2025-11-07-refactoring-government-essay-v1.md` - "Refactoring Government: Why America Needs Governance Architects" - A polished essay introducing the separation between government design and government operation
+
 ## Versioning
 
 Notice that some files have version numbers (v1, v2, v3) and some don't. This reflects the reality of the brainstorming process:

@@ -145,6 +145,41 @@ When adding sources or materials:
 2. Include citation information
 3. Add brief annotation explaining relevance
 
+## Available Skills
+
+Skills are specialized workflows that automate common tasks. Invoke them with natural language.
+
+### add-file
+
+**Purpose**: Organize new files added to the repository
+
+**Trigger phrases**:
+- "add [filename]"
+- "organize [filename]"
+- "I just added [filename]"
+- "process new file"
+
+**What it does**:
+1. Finds the file in the repository
+2. Reads and understands the content
+3. Suggests proper naming following conventions
+4. Renames the file
+5. Updates relevant README documentation
+6. Reports what was done
+
+**When to use**:
+- User adds a new draft, conversation, or research file
+- File doesn't follow naming convention
+- Documentation needs updating to reflect new file
+
+**Example**:
+```
+User: "I just added a new essay draft called 'Government Design.md'"
+Skill: [Finds file, reads it, suggests name, renames, updates README]
+```
+
+See `.claude/skills/add-file.md` for complete documentation.
+
 ## Tool Development
 
 Tools in `tools/` are Ruby scripts for writing workflow automation:
