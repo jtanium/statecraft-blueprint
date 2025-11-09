@@ -1,4 +1,4 @@
-# P2.2: Engineering for Complexity (Part II) - The Solution
+# P2.1: Engineering for Complexity (Part II) - The Solution
 
 **By [Your Name]**  
 *The Statecraft Blueprint*
