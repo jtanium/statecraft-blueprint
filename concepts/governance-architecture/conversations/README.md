@@ -1,6 +1,20 @@
 # Governance Architecture Conversations
 
-This directory contains AI-assisted conversations that shaped the Governance Architecture concept.
+This directory previously contained all AI-assisted conversations that shaped the Governance Architecture concept.
+
+## November 2025 Reorganization
+
+As of November 2025, conversations have been reorganized to live alongside the drafts and outlines they helped create:
+
+- **Development conversations** now live in `drafts/P#.#-series_name/` directories, next to their related outlines and drafts
+- **Research/brainstorming conversations** have moved to `research/` directory
+
+This makes it easier to see the relationship between conversations and their resulting work.
+
+## What Remains Here
+
+- `2025-11-05-thought-leadership-engine-export.json` - Trello export (organizational, not conversation content)
+- This README
 
 ## The Missing Origin
 
@@ -12,33 +26,37 @@ When the conversation was saved to Google, it disappeared.
 
 See [meta/origin-story.md](../../../meta/origin-story.md) for the full story of what happened.
 
-## What We Have
+## Where Conversations Live Now
 
-### Reconstruction Attempts (November 4, 2025)
+### Research & Brainstorming
+**Location**: `../research/`
 
+These are exploratory conversations, figuring out ideas and frameworks:
 - `2025-11-04-gemini-reconstruction-attempt.md` - Attempt to recreate the lost conversation
-- `2025-11-04-gemini-technical-issues.md` - Documentation of Gemini's content redaction problems
+- `2025-11-04-gemini-technical-issues.md` - Documentation of Gemini's problems
+- `2025-11-08-stream-of-consciousness-organization.md` - Morning hike notes, organizing thoughts
 
-These represent attempts to recover the original insights, but they are not the original conversations.
+### Development Conversations
+**Location**: `../drafts/P#.#-series_name/`
 
-### Claude Conversations (November 5-8, 2025)
+These conversations developed specific parts, outlines, and drafts. They now live next to the work they created:
 
-After Gemini's technical issues, work moved to Claude:
+**P2.2 - Governance Design**:
+- `essay-refinement-conversation.md`
+- `funding-lapse-edge-case-conversation.md`
 
-- `2025-11-05-thought-leadership-engine-export.json` - Conversation export (needs conversion)
-- `2025-11-05-immune-system-context.md` - Context document for the "Immune System" series
-- `2025-11-05-five-stage-cascade-conversation.md` - Developing the five-stage cascade framework
-- `2025-11-05-21st-century-problems-conversation.md` - 21st century problems outline development
-- `2025-11-05-p3-2-revision-summary.md` - Revision summary for Part 3.2
-- `2025-11-05-why-every-fix-fails-conversation.md` - "Why Every Fix Fails" draft development
-- `2025-11-07-essay-refinement-conversation.md` - Refining the flagship Governance Architecture essay, including adding tiered framework, addressing constitutional questions, and developing political feasibility section
-- `2025-11-08-funding-lapse-edge-case.md` - Adding critical edge case to outline: what happens if the Governance Agency itself experiences a funding lapse during government dysfunction
-- `2025-11-08-stream-of-consciousness-organization.md` - Organizing stream of consciousness notes from morning hike, separating philosophical musings from governance architecture insights, establishing "how vs what" filter, and creating AI code generation safety standards
+**P3.1 - Immune System Series**:
+- `immune-system-context.md` - Series framework and methodology
+- `1-five_stage_cascade-conversation.md`
+- `2-why_every_fix_fails-conversation.md`
+- `3-21st_century_problems-conversation.md`
+
+**P3.2**:
+- `revision-summary.md`
 
 ## The Learning Process
 
 These conversations show the messy reality of intellectual work:
-
 - Ideas emerge through dialogue
 - Technical tools fail at crucial moments
 - Reconstruction is never the same as the original
@@ -46,20 +64,13 @@ These conversations show the messy reality of intellectual work:
 
 This is exactly why we now use Git for version control and save conversations immediately.
 
-## Format Notes
-
-- `.md` files are markdown exports or reconstructions
-- `.json` files need to be converted using the `conversation_converter` tool
-- File naming convention: `YYYY-MM-DD-description.md`
-
 ## Future Conversations
 
-All conversations from the Claude Projects feature (discovered November 5, 2025) onwards should be properly exported and added here with:
+All new conversations should be saved in the appropriate location:
+- **Research/exploration** → `research/`
+- **Development of specific pieces** → `drafts/P#.#-series_name/`
 
-- Date
-- Topic/focus
-- Context (what was being developed)
-- Outcomes (what drafts or insights resulted)
+Use the naming convention: `#-piece_name-conversation.md` for development conversations.
 
 ---
 
