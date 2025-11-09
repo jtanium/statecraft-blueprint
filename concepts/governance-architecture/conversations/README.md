@@ -21,7 +21,7 @@ See [meta/origin-story.md](../../../meta/origin-story.md) for the full story of 
 
 These represent attempts to recover the original insights, but they are not the original conversations.
 
-### Claude Conversations (November 5-7, 2025)
+### Claude Conversations (November 5-8, 2025)
 
 After Gemini's technical issues, work moved to Claude:
 
@@ -32,6 +32,8 @@ After Gemini's technical issues, work moved to Claude:
 - `2025-11-05-p3-2-revision-summary.md` - Revision summary for Part 3.2
 - `2025-11-05-why-every-fix-fails-conversation.md` - "Why Every Fix Fails" draft development
 - `2025-11-07-essay-refinement-conversation.md` - Refining the flagship Governance Architecture essay, including adding tiered framework, addressing constitutional questions, and developing political feasibility section
+- `2025-11-08-funding-lapse-edge-case.md` - Adding critical edge case to outline: what happens if the Governance Agency itself experiences a funding lapse during government dysfunction
+- `2025-11-08-stream-of-consciousness-organization.md` - Organizing stream of consciousness notes from morning hike, separating philosophical musings from governance architecture insights, establishing "how vs what" filter, and creating AI code generation safety standards
 
 ## The Learning Process
 

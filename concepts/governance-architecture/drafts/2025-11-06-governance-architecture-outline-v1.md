@@ -450,6 +450,7 @@ everything should be governed the same way.
 - How to handle emergencies requiring rapid governance changes?
 - Relationship to executive orders and presidential power?
 - How do court decisions interact with governance recommendations?
+- **Cascading failures leading to funding lapse**: What if the Governance Agency's funding lapses due to broader government dysfunction (similar to government shutdowns)? How does the agency continue operating during such a crisis, and what are the continuity protocols? What about the rest of the government? How do we keep them functional during this time? What is prioritized?
 
 ## Why This Matters
 
