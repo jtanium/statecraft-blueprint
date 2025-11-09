@@ -1,6 +1,18 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
+# ============================================================================
+# AI-GENERATED CODE - NOT REVIEWED OR TESTED
+# ============================================================================
+# Generated: 2025-11-08T17:48:00-08:00
+# Generator: Claude Sonnet 4.5
+# Project: 2028 Thought Leadership Engine
+#
+# WARNING: This code has not been reviewed or tested by humans.
+#          Do NOT use in production without thorough review.
+# Status: UNREVIEWED
+# ============================================================================
+
 # Glossary Auto-Linker
 # Automatically links glossary terms in markdown files
 #

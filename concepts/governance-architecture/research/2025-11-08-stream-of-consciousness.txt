@@ -1,0 +1,93 @@
+Ai does not mean we are necessarily going to be less smart. It takes my ideas, refines them, and reflects them back at me. It saves me the drudgery of getting bogged down learning terms and details so I can stay focused on higher level problems. It is a game changer.
+
+These ideas could have never come to light without it.
+
+
+Think bout the origin story from my perspective. All these years I can see the problems with the system, I try to explain them to people. The few people that see the problems and can acknowledge them, realize, just like me, 1 or 2 people can’t fix all this. It’s a massive undertaking. Not impossible, but damn close to it.
+
+So I think “how can I get these changes implemented?” The rational choice is, become a politician and try to push the ideas forward that way.
+
+But that’s the old school way. It’s not the 1800s anymore. This is the 21st century. But oddly, one thing that worked back then, and still works now: citizen pressure. The people do and will always have the ultimate power. Not individuals, but collectively. In the book Sapiens it talks about how cooperation is what sets humans apart from all the other animals. And when working together they can have a huge impact. For better or worse.
+
+So it makes sense, while I probably would make a good leader, there’s not just political leadership or business leadership. There’s thought leadership.
+
+I want that a ha moment for everyone. When they go… “huh… yeah… why is it we are still doing it that way…?”
+
+Let my ideas stand on their merit.
+
+
+(We need to define the routine of regular posting on social media)
+
+
+No one wants to think about government. They have their own lives. They shouldn’t have to think about it like they don’t have to think about air travel safety. Yeah we know about the TSA and ATC, wearing our seat belt, how to put on an oxygen mask, but much beyond that most people don’t think about it. They just let the system work.
+
+That’s what we want with government.
+
+
+One thing we have going for us is, everything on the internet is forever. I think this are evident truths. What I say is undeniable. The ideas are out there, and one day they will be found by the people who can make them happen.
+
+There aren’t many things we can agree on in this country, but I think we can all agree that our government does not function well, it has some serious problems. And those problems prevent the government from solving the problems that affect people’s lives. Have a material impact on everyone’s well being.
+
+We can debate what the problems that affect people are. We can debate how we solve those problems. My solutions are not above this. They are not beyond reproach. They are not the only solutions. They probably event the best or most ideal. But they are solutions. And more importantly we start having the conversations about government failing us and what we are going to do about it. A few hundred years ago it was pitch forks and gullitines. We don’t have to resort to that. But we do need to acknowledge there are problems. And we need to have some agreement on what those problems are. I think, it’s a problem that the government can just shut down leaving everyone in a lurch and suffering. And it affects everyone. Every single one of us. Government is truly the great equalizer. The government shuts down, air traffic starts getting cut, that affects the wealthy with their private jets and it affects the people destitute on the street and everyone in between. If we can acknowledge that this problem affects us all and is indeed a problem that needs to be solved then there’s no reason we can’t fix it.
+
+
+
+
+
+
+Makes notes that our code has not been reviewed or tested. We should comments to code that’s generated to indicate it was generated when and that it needs to be reviewed and tested so people can take precautions how can we automatically do that what does that look like
+
+7:19 am Nov 8 2025 bountiful Utah North canyon trail. Wandering alone in the forest by myself I’m exhausted from what I’ve been working on I can’t keep up with my friends
+
+I don’t like this I’m terrified I don’t want power or fame or notoriety I’m scared to be under the scrutiny of the government the media the powerful the elite these notions threaten them
+
+This could save democracy or at least buy it a few more years. I’m proposing 21st century solutions for 21st century problems. They probably won’t hold up in 22nd or 23rd century we need to build a system that is adaptable to change what I do in software what I did in cardinality
+
+I started at the end of the dot com boom I saw it we thought the internet would solve the worlds problems it fixed some but created new ones ai will be the same we should thoughtfully apply the lessons we as a society as a nation as a species learned. We won’t get it right there will be gaps but not as much as trying to regulate ai like cars
+
+I foresee the cycle continuing we are going to come to value paper physical things electronic information will be untrustworthy for the foreseeable future it can be manipulated so easy we can authenticate physical items right now we can but that trust is eroding before our eyes with deep fakes and other things it used to take a lot of resources to manipulate images then photoshop came along then it was video we trusted now deep fakes are taking that away
+
+I have this sort of fantasy about a Utopia ushered in by resilient democracy to begins in the US then spread across the world allowing nations to cooperate in ways we’ve only dreamed and puts an end to authoritarianism
+
+But people will always crave power
+
+But we can put controls in place
+
+They’ll find new holes
+
+We need to detect them and fill them
+
+That’s why I’m asking everyone step up your vigilance until we can get systems in place that can effect change. I’d love for these changes to happen tomorrow but that’s unrealistic
+
+Government is slow and deliberate that’s okay we will be better for it in the long run
+
+The entrenched powers are going to try to stop us. Halting funding. Stirring controversy sowing FUD debate the science big tobacco’s strategy our signal must cut through what other ways can will they stop us
+
+It’s like because I know I’ve put these ideas out into the world my mind can rest a bit. Even they aren’t fully formed they are out there. I’ve used ai to develop them they will become part of the human record. Even if it’s not Themis generation or the next one day the right people will find them and put them into action
+
+This could be a litmus test for morale arc bends towards truth
+
+Also the ai is gathering data to learn how ideas form how to form ideas it saw idea A and idea B and they got joined. It could go through and link every idea with every other idea (like the Netflix problem ridiculously high dimensional space) and then cull ideas that are nonsensical. Maybe rank the ideas in terms of sensicalness. How? The huge word2vec library. The ideas and notions are encoded in the words, in the vectors. How do you evaluate sensicalness?
+
+Suddenly I understand the dynamic of how powerful a person who doesn’t want power is, but I understand it on a deeper level. I can’t articulate it. I will let it roll around in my head. That could be useful.
+
+If you can answer these 2 or 3 questions with yes, then we want you I want to talk to you. Is it a problem that government can’t function at the most basic level, it shuts down it can’t pass legislation worth a damn?
+Should we fix that problem, is it worth fixing?
+
+Then we need to design a way to take people from being able to acknowledge there is a problem to being able to understand what we are doing? Walk them through critical thinking skepticism logic. Not everyone will be able to do it, but some will.
+
+Joey I have a math problem for you
+
+The wright flyer functioned ad designed. Why don’t airplanes still look function that way?
+
+
+Demolishing the White House while the snap program can’t be funded… while the money to remodel wouldn’t solve the problem. It has bad optics.
+
+The legislators still get paid while, telling air traffic controllers to work without pay. So they could just decide never to come back to work this country would be frozen. Constitutional crisis on the highest order.
+
+
+Ai knowledge is being locked up behind commercial interest. OpenAI anthropic Google. They are becoming gatekeepers to knowledge. Melissa wanted to write a book but said she had nothing to say. I reminded her about our book on divorce and parenting. She said no one will read it. That’s okay, if it’s out there it will become part of the human communal knowledge base. People will go to ChatGPT and say my kid is doing whatever what do I do and get an answer.
+
+This has the potential for a knowledge marketplace. Or worse, knowledge will be housed and locked away inaccessible to many people. How do we keep some knowledge open and accessible to everyone? How do we keep knowledge that shouldn’t be open, how do we control it? How do we determine which information(whether) it should be open and accessible and which information should be controlled? In a weird way, we have always had this problem, controlling information. Because information is still power. Maybe that’s how. Who does this information empower? Is this who we want empowered? How do you show you are worthy of the information? Selling books has always been one form of information marketplace. You have an idea, you can sell it to everyone for the price of the book.
+
+Add homelessness and education to the list of complex topics.
