@@ -20,33 +20,9 @@ And I was right. But what I didn't know yet was that I was about to watch someth
 
 ---
 
-## Addressing the Elephant in the Room
+## A Note on Examples
 
-I need to be direct about something: Most of my examples in this series involve Trump and Republicans. I wish I had perfect equivalence—matching Democratic examples for every Republican one. But I don't, and I'm not going to manufacture false balance just to seem neutral.
-
-Why? Because **false equivalence is part of the problem I'm diagnosing.** 
-
-When media gives equal time to climate science and climate denial, that's Stage 2 of the cascade I'm about to show you—translating nonsense into legitimate discourse. When journalists treat "the earth is warming due to human activity" and "windmills cause cancer" as equally valid perspectives deserving equal coverage, they're not being neutral. They're being part of the system failure.
-
-If I did the same thing here just to avoid seeming partisan, I'd be committing the exact error I'm critiquing.
-
-So here's what I can honestly say:
-- **Both parties do economically questionable things** 
-- **Both parties oversimplify complex issues** 
-- **The system rewards this behavior regardless of party**
-- **But the frequency, scale, and brazenness varies**
-
-I'm using the tariff example because:
-1. **I watched it happen in real-time** (personal experience grounds it)
-2. **It's recent and clear** (easy to verify, fresh in memory)
-3. **It perfectly illustrates the five-stage cascade** (pedagogically ideal)
-4. **It affects all of us—both sides of the aisle, young and old.** Conservative farmers lose export markets. Progressive consumers face higher prices. Small businesses get crushed by supply chain chaos. The only people it affects disproportionately are those with enough wealth to not notice grocery prices. **This isn't partisan—it's economic reality.**
-
-If you can show me equivalent Democratic examples, I genuinely want to hear them. But I won't pretend they're equally common or equally brazen just to maintain false balance. That would undermine everything I'm trying to build here: **credibility through intellectual honesty.**
-
-Focus on the mechanism, not the person. The cascade is the problem. Trump just makes it visible.
-
-Now, let me show you what I saw.
+I'm using the September 5th tariff exchange as my primary example because I watched it happen in real-time and it perfectly demonstrates all five stages. Yes, this involves Trump. The mechanism I'm showing you is nonpartisan—it works regardless of who's speaking—but you need a clear, documented example to see how it operates. The pattern is the problem, not the person. Once you understand the mechanism, you'll recognize it everywhere.
 
 ---
 
@@ -83,7 +59,7 @@ Reshma Saujani, the questioner, later said the answer "blew my mind" and was "in
 
 But in the moment? Silence. The system had no immune response at the point of entry.
 
-**This is the critical failure.** Our political system has no filter that says "wait, this violates basic economics." That room was full of financial experts who almost certainly recognized the nonsense. But social norms, media norms, and institutional norms all prevent calling out incoherence in real-time.
+**This is the critical failure.** Our political system has no filter that says "wait, this violates basic economics." That room full of Economic Club members—typically business leaders and financial professionals—likely included many who recognized the economic problems with the answer. But social norms, media norms, and institutional norms all prevent calling out incoherence in real-time.
 
 The infection began here. And there was no defense.
 
@@ -104,12 +80,7 @@ So the media did what it's trained to do: extract signal from noise. Find the "p
 
 Watch what happened: The lie became structured.
 
-Headlines shifted from describing incoherence to describing policy:
-- "Trump suggests tariffs can reduce child care costs" (PBS)
-- "Trump claims boosting tariffs will pay for child care" (CNN)
-- "Trump proposes tariffs to fund childcare" (multiple outlets)
-
-The incoherence was smoothed away. The economic impossibility was framed as a "controversial proposal" or a "plan that economists debate."
+Headlines across outlets followed a predictable pattern. The Washington Post described it as a "confusing answer," while other major outlets began framing it as a concrete policy proposal about using tariff revenue for childcare. The incoherence was smoothed away. The economic impossibility was framed as a "controversial proposal" or a "plan that economists debate."
 
 **Why does this happen?**
 
@@ -221,6 +192,10 @@ By the time truth arrives, the battle is already over.
 
 ---
 
+The tariff example is far from unique. You'll see this same cascade with "eating dogs" claims[^8] that go viral before verification, crime statistics debates[^9] where perception contradicts data, windmills-and-cancer claims[^10] that get news cycles despite being absurd—across topics and across actors. The mechanism doesn't care about content or ideology. It cares about virality vs. accuracy, speed vs. truth, social proof vs. verification. **That's why it's a system problem, not a people problem.**
+
+---
+
 ## Now You Can See the Pattern
 
 Let me recap the five stages:
@@ -236,15 +211,6 @@ Let me recap the five stages:
 **Stage 5: Failed Corrections** – Truth too slow, too complex, too late. The lie has already won.
 
 **The uncomfortable truth:** This isn't unique to tariffs. This isn't unique to one politician. This is how the system works now.
-
-Once you see it, you'll see it everywhere:
-
-- "They're eating the dogs" (viral before verified, false but now in political discourse)
-- "Crime is up" (feels true, contradicts FBI data, shapes policy anyway)
-- "Windmills cause cancer" (absurd, but got news cycles)
-- Any simple claim about complex systems
-
-The pattern is identical. Different content, same cascade.
 
 **You now have a framework.** When you see an incoherent claim that gets translated into policy talk, when you see something go viral before it's verified, when you notice "everyone's talking about it" substituting for "it's true," when you watch corrections arrive after discourse has moved on—you're watching the five-stage cascade in real-time.
 
@@ -284,6 +250,10 @@ You've seen what's broken. Next, we'll figure out why.
 
 ---
 
+_Updated Tue Nov 11 2025 - added references #8, #9, #10, and simplified 'A Note on Examples' section based on reader feedback._
+
+---
+
 **We will add a link to Part 2: "We Have Virality But No Immune System—Why Every Fix Has Failed" when it is published.**
 
 ---
@@ -308,6 +278,12 @@ You've seen what's broken. Next, we'll figure out why.
 
 [^7]: Flaaen, Aaron, and Justin Pierce. "Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector." *Federal Reserve Board Finance and Economics Discussion Series* 2019-086 (2019).
 
+[^8]: During the September 10, 2024 presidential debate, Trump claimed Haitian immigrants in Springfield, Ohio were "eating the dogs" and "eating the cats." Springfield City Manager Bryan Heck confirmed no credible reports supported these claims. PolitiFact rated the claim "Pants on Fire" and later named it their 2024 Lie of the Year. See: PolitiFact. "Trump repeats baseless claims that Haitian immigrants in Springfield, Ohio, are eating pets." September 11, 2024. https://www.politifact.com/factchecks/2024/sep/11/donald-trump/trump-repeats-baseless-claims-that-haitian-immigra/; PolitiFact. "'They're eating the pets': Trump and Vance earn PolitiFact's 2024 Lie of the Year." December 17, 2024. https://www.politifact.com/article/2024/dec/17/theyre-eating-the-pets-trump-vance-earn-politifact/
+
+[^9]: FBI data showed violent crime decreased 3.0% in 2023, with murder down 11.6%, yet Gallup polling found 77% of Americans believed crime had increased. This perception-reality gap persisted despite continued declines. See: FBI. "FBI Releases 2023 Crime in the Nation Statistics." September 23, 2024. https://www.fbi.gov/news/press-releases/fbi-releases-2023-crime-in-the-nation-statistics; Gallup. "More Americans See U.S. Crime Problem as Serious." November 16, 2023. https://news.gallup.com/poll/544442/americans-crime-problem-serious.aspx; Brennan Center for Justice. "Violent Crime Is Falling Nationwide — Here's How We Know." https://www.brennancenter.org/our-work/analysis-opinion/violent-crime-falling-nationwide-heres-how-we-know
+
+[^10]: At an April 2, 2019 NRCC dinner, Trump claimed "the noise causes cancer" from wind turbines. The American Cancer Society stated they were "unaware of any credible evidence" for this claim. PolitiFact rated it "Pants on Fire." See: FactCheck.org. "Trump's Faulty Wind Power Claims." April 4, 2019. https://www.factcheck.org/2019/04/trumps-faulty-wind-power-claims/; PolitiFact. "Donald Trump's ridiculous link between cancer, wind turbines." April 8, 2019. https://www.politifact.com/factchecks/2019/apr/08/donald-trump/republicans-dismiss-trumps-windmill-and-cancer-cla/
+
 ---
 
-**Word Count: ~2,650 words**
+**Word Count: ~2,550 words**
