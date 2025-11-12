@@ -220,6 +220,29 @@ Before finalizing content:
 
 ---
 
+## Tiered Content Strategy
+
+The Statecraft Blueprint uses a 5-tier content multiplication strategy. Full details: `meta/content-strategy.md`
+
+**The Tiers:**
+- **T1: The Foundation** (2,500-4,000 words) - Pillar essays on Substack
+- **T2: Traditional Op-Ed** (750-1,000 words) - Media placements (WaPo, The Hill, Bloomberg)
+- **T3: Digital Core** (150-300 words) - Quotable social media posts (LinkedIn, Twitter/X)
+- **T4: Micro-Hook** (Single sentence) - Headlines, tweets, memes
+- **T5: Visual** (Infographics, diagrams) - System visualizations, data viz, quote cards
+
+**Content Multiplication**: Each T1 pillar generates 7-15 pieces of derived content (T2-T5)
+
+**When drafting:**
+- **T1 pieces**: Follow full pillar essay structure (see content-strategy.md)
+- **T2 op-eds**: Use classic op-ed formula: Lede → Problem → Why It Matters → Solution → Closer
+- **T3 posts**: Create quotable paragraphs using Hook → Mechanism → Consequence → Punch line
+- **T4 hooks**: Generate 5-10 one-sentence zingers per topic (provocative reframes, systems insights, calls to action)
+
+**Current Priority**: Generating T2 op-eds from existing T1 pillars for Phase II outreach.
+
+---
+
 ## Available Skills
 
 Skills are specialized workflows that automate common tasks. Invoke them with natural language.

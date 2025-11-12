@@ -4,94 +4,185 @@ Where this project is headed and what remains to be done.
 
 ## Current Status
 
-**Phase**: Initial Setup & First Concept Development
+**Phase**: Phase I - Content Base Building (Month 6 of 6-12)
+**Next Phase**: Phase II - Outreach & Distribution (Starting December 2025)
 
 **Completed**:
-- Repository structure established
-- Documentation framework in place
-- Tooling skeleton created
-- Process defined
-- First concept (Governance Architecture) in early development
+- ✅ Repository structure and documentation framework
+- ✅ Tiered content strategy defined (see `meta/content-strategy.md`)
+- ✅ Writing style guide established
+- ✅ 5 pillar essays completed or near-final:
+  - P1.1 - Legislative Servitude (published on Substack)
+  - P2.1.1 - Unavoidable Nuance (final version ready)
+  - P3.1.1 - Five-Stage Cascade (final version ready)
+  - P3.1.3 - 21st Century Problems (final version ready)
+  - P2.1.2 & P2.1.3 - Engineering for Complexity (drafts ready)
+- ✅ Social media presence established (Bluesky, Twitter/X, LinkedIn)
 
 **In Progress**:
-- Developing Governance Architecture concept
-- Filling out glossary with foundational terms
-- Implementing core functionality in tools
+- Generating T2 op-eds from existing pillar essays
+- Building T3-T5 derived content (social posts, hooks, visuals)
+- Preparing for outreach to media outlets
 
-## Short-Term Goals (Next 3 Months)
+## The Three-Phase Strategy
 
-### 1. Complete First Concept
+### Phase I: Content Base Building (6-12 Months)
+**Core Goal**: Establish intellectual and philosophical foundation for systemic reform
+**Key Output**: 5-7 pillar essays → 50-100 pieces of derived content
 
-**Goal**: Publish "Governance Architecture" as first complete concept
+**Status**: Month 6 - NEARLY COMPLETE
+
+**Completed Pillars**:
+- ✅ Legislative Servitude (P1.1) - Democracy foundation
+- ✅ Unavoidable Nuance (P2.1.1) - Intellectual framework
+- ✅ Five-Stage Cascade (P3.1.1) - Problem diagnosis
+- ✅ 21st Century Problems (P3.1.3) - Stakes and action
+- ⏳ Engineering for Complexity (P2.1.2-3) - Solutions framework
+
+**Remaining Phase I Work**:
+- [ ] Complete 1-2 more pillar essays (The Tariff Delusion, The Accountability Architecture)
+- [ ] Generate initial derived content (T2-T5) from completed pillars
+- [ ] Build initial Substack audience (500+ subscribers)
+
+### Phase II: Outreach & Distribution (6+ Months)
+**Core Goal**: Use content foundation to gain media placements and capture key audiences
+**Key Output**: Secure placements in high-leverage outlets and begin targeted engagement
+
+**Starting**: December 2025
+
+**Immediate Tasks** (Next 3 Months):
+- [ ] Generate 10-15 T2 op-eds from existing pillars
+- [ ] Pitch to Tier 3 outlets (The Hill, Medium, guest Substacks)
+- [ ] Create T3-T5 content for social distribution
+- [ ] Build relationships with:
+  - [ ] Policy journalists
+  - [ ] Think tank fellows
+  - [ ] Podcast producers
+  - [ ] Adjacent Substack writers
+- [ ] Secure first 3-5 media placements
+
+**The "Wedge" Strategy Timeline**:
+- **Month 1-3** (Dec 2025 - Feb 2026): Publish on Substack, build initial audience
+- **Month 3-6** (Mar - May 2026): Guest post on established Substacks, co-author with think tank fellows
+- **Month 6-9** (Jun - Aug 2026): Place op-eds in Tier 3 outlets (The Hill, Medium)
+- **Month 9-12** (Sep - Nov 2026): Armed with clips, pitch Tier 2 (Bloomberg, WaPo)
+- **Month 12-18** (Dec 2026 - May 2027): With credibility, pitch Tier 1 (Foreign Affairs, Atlantic)
+
+**Success Metrics**:
+- 10+ op-ed placements in named outlets
+- 3+ podcast appearances
+- 5,000+ social media followers
+- Engagement from policy professionals/journalists
+
+### Phase III: Systemic Mobilization (Ongoing)
+**Core Goal**: Shift from defining problems to campaigning for solutions
+**Key Output**: Focus all content on concrete political action, legislative proposals, coalition building
+
+**Timeline**: 2027+
+
+**Activities**:
+- Transform ideas into model legislation
+- Build coalition infrastructure
+- Identify champion legislators
+- Create grassroots pressure campaigns
+- Engage with think tanks and policy organizations
+- Move ideas through the Overton Window (Unthinkable → Radical → Acceptable → Sensible → Popular → Policy)
+
+**Not starting until Phase II establishes credibility and reach.**
+
+---
+
+## Short-Term Priorities (December 2025 - February 2026)
+
+### 1. Generate Tier 2 Op-Eds
+
+**Goal**: Create 10-15 op-eds from existing pillar essays
+
+**Priority Op-Eds**:
+1. "Congress's Public Voting System Is a Lobbyist's Dream" (from P1.1)
+2. "Why Government Shutdowns Keep Happening" (from P2.1.1)
+3. "The Five-Stage Cascade: How Nonsense Becomes Policy" (from P3.1.1)
+4. "AI Regulation Requires Novel Frameworks" (from P2.1.2)
+5. "The Complexity Trap in Modern Governance" (from P2.1.2)
+
+**Success metric**: 10 polished, outlet-ready op-eds
+
+### 2. Begin Media Outreach
+
+**Goal**: Secure first 3-5 placements in Tier 3 outlets
+
+**Target Outlets** (Tier 3 - Easiest entry):
+- The Hill (Congressional staffers read religiously)
+- Politico (insider-focused)
+- Medium partner publications
+- Established Substack guest posts
+- Think tank blogs (Brookings, AEI, CSIS)
+
+**Success metric**: First 3 op-eds placed by February 2026
+
+### 3. Build Social Media Presence
+
+**Goal**: Grow following and engagement on all platforms
 
 **Tasks**:
-- [ ] Conduct 5-10 exploration conversations
-- [ ] Write comprehensive outline
-- [ ] Gather 20+ research sources
-- [ ] Draft v1.0
-- [ ] Iterate to v3.0+
-- [ ] Validate and publish
+- [ ] Create T3 social posts for each pillar
+- [ ] Generate T4 hooks for Twitter/X
+- [ ] Post weekly on LinkedIn with links to essays
+- [ ] Engage with policy journalists and thought leaders
+- [ ] Cross-promote on Bluesky
 
-**Success metric**: One published concept with full development history visible
+**Success metric**: 1,000+ followers across platforms by February 2026
 
-### 2. Build Core Glossary
+### 4. Tool Refinement (As Needed)
 
-**Goal**: Define 20-30 foundational terms
+**Goal**: Make tools work for actual workflow
 
-**Terms to define**:
-- Accountability architecture
-- Institutional design
-- Governance framework
-- Democratic legitimacy
-- Public goods
-- Collective action
-- [Add 15-20 more]
+**Priority Tools**:
+- `validate_post` - For publication workflow
+- `citation_formatter` - For research references
+- Visual creation pipeline (Canva templates)
 
-**Success metric**: Comprehensive glossary that other concepts can reference
+**Success metric**: Can produce and publish content without manual friction
 
-### 3. Implement Essential Tool Functionality
+---
 
-**Goal**: Make tools actually work, not just skeletons
+## Medium-Term Goals (March - August 2026)
 
-**Priority tools**:
-1. `conversation_converter` - Need to archive conversations
-2. `validate_post` - Need for publication workflow
-3. `auto_link_terms` - Need for glossary integration
-4. `citation_formatter` - Need for research references
+### 5. Scale Media Placements
 
-**Success metric**: Can use tools in actual workflow without manual intervention
+**Goal**: Move from Tier 3 to Tier 2 outlets
 
-## Medium-Term Goals (3-6 Months)
+**Target Outlets** (Tier 2):
+- Bloomberg Opinion
+- Washington Post Opinions
+- Financial Times Opinion
+- Substack features/recommendations
 
-### 4. Develop Second & Third Concepts
+**Approach**:
+- Use Tier 3 clips as credibility
+- Build relationships with editors
+- Pitch timely pieces tied to current events
 
-**Potential topics**:
-- Electoral system design
-- Bureaucratic accountability
-- Public participation mechanisms
-- Information architecture for democracy
-- Institutional incentive structures
+### 6. Podcast Circuit
 
-**Goal**: Demonstrate that the process works for multiple concepts
+**Goal**: Secure 5+ podcast appearances
 
-### 5. Refine the Process
+**Target Podcasts**:
+- The Weeds (Vox - policy nerds)
+- The Bulwark (anti-Trump conservatives)
+- Breaking Points (populist appeal)
+- Emerging policy podcasts
 
-**Based on experience with first concepts**:
-- Update process.md with lessons learned
-- Identify tooling gaps
-- Improve documentation
-- Streamline workflow
+### 7. Complete Remaining Pillar Essays
 
-### 6. Enable External Contributions
+**Goal**: Finish Phase I content base
 
-**Goal**: Make it easy for others to contribute
+**Remaining Pillars**:
+- The Tariff Delusion (timely, economic pragmatism)
+- The Accountability Architecture (systems showcase)
+- The Sovereignty Stack (tech credentials)
 
-**Tasks**:
-- [ ] Add contribution examples
-- [ ] Create issue templates
-- [ ] Write guide for challenging ideas
-- [ ] Document research contribution process
-- [ ] Set up discussions/forum
+**Success metric**: 7-8 total pillar essays published
 
 ## Long-Term Goals (6-12 Months)
 
@@ -274,6 +365,7 @@ Or none of the above. The project guides itself through what proves interesting 
 
 ## Version History
 
-- **v1.0** (2025): Initial roadmap at project start
+- **v1.0** (November 6, 2025): Initial roadmap at project start
+- **v2.0** (November 12, 2025): Major update - Added three-phase strategy (Content Base Building, Outreach & Distribution, Systemic Mobilization), tiered content framework, and updated status to reflect Phase I near-completion
 
 *This roadmap will be updated quarterly. Check git history for changes.*
