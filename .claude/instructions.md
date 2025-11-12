@@ -145,6 +145,81 @@ When adding sources or materials:
 2. Include citation information
 3. Add brief annotation explaining relevance
 
+## Statecraft Writing Style Guide
+
+When drafting or editing content for The Statecraft Blueprint (especially governance architecture essays), follow these principles. Full guide: `concepts/governance-architecture/WRITING_STYLE_GUIDE.md`
+
+### Core Mission: Second-Order Work
+
+We're creating conditions where policy debates can lead somewhere—not pre-deciding solutions.
+
+**What we ARE doing:**
+- Point out undeniable problems everyone can see (shutdowns, gridlock, policy whiplash)
+- Spread awareness that solutions exist
+- Show the system itself can be changed
+- Build a "big tent" for structural reform
+
+**What we're NOT doing:**
+- Advocating for specific policies (yet)
+- Debating which reforms are best
+- Getting bogged down in implementation details
+
+### The Core Tension: Abstract vs. Concrete
+
+**Problem:**
+- Too abstract: "We need constitutional reform" → People glaze over
+- Too concrete: "Here's ranked choice voting" → People fixate on debating that specific thing
+
+**Solutions:**
+1. **Lead with the problem, not the solution** - Open with systemic failure that's undeniable
+2. **Use multiple diverse examples** - Show 3-4 different examples to signal "these are illustrations"
+3. **Explicit framing** - Use phrases like "ONE example to make this concrete—not a proposal we're advocating for..."
+4. **"Choose Your Own Adventure" framing** - Present structural change as enabling choice, not imposing solutions
+5. **Redirect debate energy** - When readers want to debate specifics, redirect to the meta-level
+
+### Voice & Tone Standards
+
+- **Stoic brand**: Calm, measured, never alarmist
+- **Analytically rigorous**: Show your work, cite sources
+- **Intellectually honest**: Acknowledge complexity and trade-offs
+- **Non-partisan by design**: Frame as system problems, not people problems
+- **Accessibility without condescension**: For all readers without treating anyone as less intelligent
+- **Systems thinker**: Engineering mindset, first-principles analysis, root cause focus
+- **Bipartisan empathy**: Show how system failures hurt everyone
+
+### Content Standards
+
+**Always:**
+- ✅ Identify system failures (not just symptoms)
+- ✅ Trace root causes
+- ✅ Propose structural solutions
+- ✅ Show the work (evidence, citations, logic)
+- ✅ Acknowledge trade-offs and complexity
+- ✅ Frame as design problems, not people problems
+
+**Never:**
+- ❌ Pretend solutions are simple
+- ❌ Blame individuals for structural problems
+- ❌ Use tribal/partisan language
+- ❌ Oversimplify for emotional impact
+- ❌ Hide uncertainty or limitations
+- ❌ Make promises about easy fixes
+
+### Quality Checklist
+
+Before finalizing content:
+- [ ] Does this lead with an undeniable problem?
+- [ ] Are examples clearly labeled as illustrative?
+- [ ] Could someone from either political side find value here?
+- [ ] Is the tone stoic and analytical, not emotional?
+- [ ] Are we showing the work (evidence, logic, citations)?
+- [ ] Have we avoided getting stuck in specific policy debates?
+- [ ] Does it end with hope and agency?
+
+**See `concepts/governance-architecture/WRITING_STYLE_GUIDE.md` for complete guidance.**
+
+---
+
 ## Available Skills
 
 Skills are specialized workflows that automate common tasks. Invoke them with natural language.
